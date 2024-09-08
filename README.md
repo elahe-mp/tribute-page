@@ -15,4 +15,4 @@ This project is based on the guidelines and prompts provided by FreeCodeCamp. Yo
 The information about Maryam Mirzakhani was sourced from the following websites:
 
 - [Wikipedia - Maryam Mirzakhani](https://en.wikipedia.org/wiki/Maryam_Mirzakhani)
-- [Additional Source Name](https://news.stanford.edu/stories/2017/07/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies)
+- [Stanford](https://news.stanford.edu/stories/2017/07/maryam-mirzakhani-stanford-mathematician-and-fields-medal-winner-dies)
