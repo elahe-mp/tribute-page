@@ -25,6 +25,12 @@ h1 {
   }
 }
 
+#desc {
+  max-width: 800px;
+  text-align: center;
+  margin: 0 auto;
+}
+
 a {
   color: #477ca7;
 }
@@ -71,8 +77,15 @@ section {
 }
 
 #headline {
+  padding-top: 50px;
   margin: 50px 0 20px 0;
   text-align: center;
+}
+
+#headline:last-of-type {
+  max-width: 800px;
+  margin: 0 auto;
+  padding-bottom: 20px;
 }
 
 ul {
@@ -106,4 +119,7 @@ blockquote {
 
 #tribute-link {
   cursor: pointer;
+}
+
+h3 {
 }
